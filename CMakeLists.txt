@@ -6,7 +6,7 @@ set(CMAKE_TOOLCHAIN_FILE cmake/arm-none-eabi-gcc.cmake)
 
 #================================================================================
 project(mk_23 LANGUAGES C CXX ASM)
-set(DEVICE stm32f303vc)
+set(DEVICE stm32f407vg)
 
 include(libopencm3)
 
