@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+12fb64b484fd6a8d4eee402d860b72b4 CMakeFiles/libopencm3_lib
