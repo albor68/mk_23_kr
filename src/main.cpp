@@ -15,4 +15,6 @@ void setup_usart () {
     gpio_set_af(GPIOA, GPIO_AF10, GPIO9 | GPIO10);                                                                                           
     }
 
-int main () {}
+int main () {
+    
+}
